@@ -81,22 +81,19 @@ The interface is divided into 5 logical tabs:
 
 <div align="center">
   
-  <!-- Replace the src links below with your actual screenshot paths after uploading them to GitHub -->
-  <!-- Example: src="screenshots/inventory.png" -->
-  
-  <img src="https://via.placeholder.com/800x450.png?text=Screenshot+1:+Inventory+Management" width="800" alt="Inventory View"/>
+  <img src="screenshots/inv.png.png" width="800" alt="Inventory View"/>
   <br/>
   <em>Main Dashboard & Inventory Management</em>
   
   <br/><br/>
   
-  <img src="https://via.placeholder.com/800x450.png?text=Screenshot+2:+Live+Billing+Engine" width="800" alt="Billing Tab"/>
+  <img src="screenshots/bill.png.png" width="800" alt="Billing Tab"/>
   <br/>
   <em>Live Billing Engine & Smart Credit Control</em>
 
   <br/><br/>
 
-  <img src="https://via.placeholder.com/800x450.png?text=Screenshot+3:+ACID+Dues+Settlement" width="800" alt="Dues Tab"/>
+  <img src="screenshots/cust.png.png" width="800" alt="Dues Tab"/>
   <br/>
   <em>Transaction-Safe Dues Settlement</em>
 
